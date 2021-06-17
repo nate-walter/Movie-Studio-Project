@@ -13,4 +13,4 @@ Once you've completed your project using the MVP template, you can improve it us
 - The **example-aab** branch is an example project using the AAB template.
 
 
-- Oh boy, I'm changins something
+- Oh boy, I'm changins something!
