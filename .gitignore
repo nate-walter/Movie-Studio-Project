@@ -76,7 +76,8 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 # IPython
 profile_default/
 ipython_config.py
@@ -127,3 +128,27 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
+=======
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Jupyter Notebook
+.ipynb_checkpoints/*
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+.ipynb_checkpoints
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+>>>>>>> 6fdc65d0ffd4765c282e24869a1973171a2e9da9
