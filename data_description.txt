@@ -1,0 +1,23 @@
+imdb.tile.principles
+
+    tconst (string) -a unique identifier of the title
+    ordering (int) - a number to uniquely identify rows for a given titleId
+    nconst (string) - unique identifier of a person/name
+    category (string) - the category job that the person was in
+    job (string) - the specific job title, `\n` is not applicable
+    characters (string) - the name of the character played, `\n` if not applicable
+
+imdb.title.crews
+
+    tconst (string) - a unique identifier of the title
+    directors - director(s) of the given title
+    writers - writers of a given title
+    
+imdb.rating
+
+    tconst (string) - a unique identifier of the title
+    averageRating - weighted average of all the individual user reviews
+    numVotes - number of votes the title has recived
+    
+
+Source - https://www.imdb.com/interfaces/
