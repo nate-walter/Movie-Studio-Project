@@ -3,7 +3,7 @@
 
 # Recommendations for the New Microsoft Movie Studio
 
-**Authors**: Ben Bowman, Nate Walter, Nina Vergara, Manav Kahlon
+**Authors**: *Ben Bowman, Nate Walter, Nina Vergara, Manav Kahlon*
 
 ## Overview
 
@@ -12,6 +12,9 @@ A one-paragraph overview of the project, including the business problem, data, m
 ## Business Problem
 
 Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
+
+The goal of our data analysis was to find certain attributes that are associated with the best box office performance. We will use this to inform the stakeholder of what kind of movie studio they should plan on creating.
+
 
 ***
 Questions to consider:
@@ -23,10 +26,28 @@ Questions to consider:
 ## Data
 
 Describe the data being used for this project.
-We were provided data sets from IMDB, Rotten Tomatoes, Box Office Mojo, and TheMovieDB.
+We were provided data sets from IMDB, Rotten Tomatoes, Box Office Mojo, TheMovieDB and The Numbers. We indend to use imdb for the genre and year released while using The Numbers and TheMovieDB for gross domestic and worldwide income as well as production costs for each title. All the data represent different sample sizes of movie titles. We merged IMDB with The Numbers and TheMovieDB to get the costs and income for films that were in all the data frames.
 
-* 
-** The domestic and worldwide gorss profit as well as 
+* Box office Mojo
+    * bom.movie_gross.csv.gz
+
+* IMDB
+    * imdb.name.basics.csv.gz
+    * imdb.title.akas.csv.gz
+    * imdb.title.basics.csv.gz
+    * imdb.title.crew.csv.gz
+    * imdb.title.principles.csv.gz
+    * imdb.title.ratings.csv.gz
+
+* Rotten Tomatoes
+    * rt.movie_info.tsv.gz
+    * rt.reviews.tsv.gz
+
+* TheMovieDB
+    * tmdb.movies.csv.gz
+    
+* The Numbers
+    * tn.movie_budgets.csv.gz
 
 ***
 Questions to consider:
