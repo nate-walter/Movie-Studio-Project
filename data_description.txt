@@ -1,23 +1,52 @@
-imdb.tile.principles
 
     tconst (string) -a unique identifier of the title
-    ordering (int) - a number to uniquely identify rows for a given titleId
     nconst (string) - unique identifier of a person/name
     category (string) - the category job that the person was in
-    job (string) - the specific job title, `\n` is not applicable
-    characters (string) - the name of the character played, `\n` if not applicable
+    
+    primary_name (string) - name of the person in the movie
+    primary_profession (array of strings) - top 3 professions of the person
+    known_for_titles (array of tconsts) - titles the person is known for
 
-imdb.title.crews
-
-    tconst (string) - a unique identifier of the title
     directors - director(s) of the given title
     writers - writers of a given title
-    
-imdb.rating
+    averageRating (float) - weighted average of all the individual user reviews
 
-    tconst (string) - a unique identifier of the title
-    averageRating - weighted average of all the individual user reviews
     numVotes - number of votes the title has recived
+    primary_title (string) - title used by the filmmakers on promotional materials on release
+    start_year (YYYY) - release year of the title
+
+    runtime_minutes - runtime of title, in minutes
+    genres (string array) - includes up to three geenres associated with the title
+    title (string) - the localized title
     
+    region (string) - the region of the title
+    release_date_int (MMM-DD-YYYY) - the release date of the title
+    production_budget (int) - the production budget of the title
+    
+    domestic_gross (int) - the domestic gross earnings of the title
+    worldwide_gross (int) - the worldwide gross earnings of the title
+    release_month (int) - the month the film was release from 1-12 (Jan-Dec)
+    
+    release_day (int) - the date the film was released
+    release_year (int) - the year the film was released
+    original_language (string) - the original language of the title
+    
+    popularity (int) - ??
+    vote_average (int) - ??
+    vote_count (int) - ??
+    
+    genre_id - ??
+    studio (string) - the studio that made the title
+    year (int) - the release year of the title
+    
+    Domestic Net Profit (int) - the domestic net profit of the title
+    Worldwide Net Profit (int) - the wordwide net profit of the title
+    
+    
+    
+    
+        
+- 
+
 
 Source - https://www.imdb.com/interfaces/
