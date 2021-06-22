@@ -28,12 +28,20 @@ Questions to consider:
 ## Data
 
 Describe the data being used for this project.
+<<<<<<< HEAD:README_FINAL.md
 
 We were provided data sets from IMDB, Rotten Tomatoes, Box Office Mojo, TheMovieDB and The Numbers. We indend to use imdb for the genre and year released while using The Numbers and TheMovieDB for gross domestic and worldwide income as well as production costs for each title. All the data represent different sample sizes of movie titles. We merged IMDB with The Numbers and TheMovieDB to get the costs and income for films that were in all the data frames.
 
 * Box office Mojo
     * bom.movie_gross.csv.gz
 
+=======
+We were provided data sets from IMDB, Rotten Tomatoes, Box Office Mojo, TheMovieDB and The Numbers. We indend to use imdb for the genre and year released while using The Numbers and TheMovieDB for gross domestic and worldwide income as well as production costs for each title. All the data represent different sample sizes of movie titles. We merged IMDB with The Numbers and TheMovieDB to get the costs and income for films that were in all the data frames.
+
+* Box office Mojo
+    * bom.movie_gross.csv.gz
+
+>>>>>>> 694bf4b1baa3a4e798039d03e5ee7dcf11c0e2ba:README.md
 * IMDB
     * imdb.name.basics.csv.gz
     * imdb.title.akas.csv.gz
@@ -113,3 +121,6 @@ Describe the structure of your repository and its contents, for example:
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
 ```
+
+Sources
+* [Second picture](https://www.pexels.com/photo/photo-of-man-holding-camera-3062541/)
