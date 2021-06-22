@@ -1,4 +1,6 @@
 <img src="./images/film_strip_img.jpg">
+
+
 # Recommendations for the New Microsoft Movie Studio
 
 **Authors**: Ben Bowman, Nate Walter, Nina Vergara, Manav Kahlon
