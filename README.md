@@ -112,3 +112,6 @@ Describe the structure of your repository and its contents, for example:
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
 ```
+
+Sources
+* https://www.pexels.com/photo/photo-of-man-holding-camera-3062541/
