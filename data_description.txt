@@ -21,3 +21,29 @@ imdb.rating
     
 
 Source - https://www.imdb.com/interfaces/
+
+bom
+    title (string) - movie title
+    studio (string) - production studio
+    domestic_gross (string) - US gross movie profit
+    foreign_gross (string) - world-wide movie profit
+    year (integer) - movie release year
+    
+tmdb
+    genre_ids (list) - list of integers that correspond to movie genres  
+    id (integer) - unique movie identifier
+    original_language (string) - original movie language
+    original_title (string)- original title of the movie
+    popularity (integer) - popularity rating 
+    release_date (string) - movie release date for theaters
+    title (string) - title alias
+    vote_average (integer) - average of public ratings
+    vote_count (integer)- number of public ratings
+
+tn
+    id (integer) - unique movie identifier
+    release_date (string) - movie release date for theaters
+    movie (string) - original title of the movie
+    production_budget (integer) - production cost in USD
+    domestic_gross (integer) - US gross movie profit in USD
+    worldwide_gross (integer) -  world-wide movie profit in USD
