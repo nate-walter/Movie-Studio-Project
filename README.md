@@ -114,4 +114,4 @@ Describe the structure of your repository and its contents, for example:
 ```
 
 Sources
-* https://www.pexels.com/photo/photo-of-man-holding-camera-3062541/
+* [Second picture](https://www.pexels.com/photo/photo-of-man-holding-camera-3062541/)
