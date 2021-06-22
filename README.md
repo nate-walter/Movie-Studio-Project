@@ -9,6 +9,8 @@
 
 A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
 
+<img src="./images/film_guys.jpg">
+
 ## Business Problem
 
 Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
