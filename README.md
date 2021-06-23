@@ -69,7 +69,17 @@ Questions to consider:
 Here is an example of how to embed images from your sub-folder:
 
 ### Visual 1
-![graph1](./images/viz1.png)
+![rating_v_net_profits](./images/rating_v_wwnetprofits.png)
+
+### Analysis
+
+![genre_v_net_profits](./images/genre_v_profits.png)
+
+### Analysis
+
+![month_v_net_profits](./images/month_v_boxoffice.png)
+
+### Analysis
 
 ## Conclusions
 
