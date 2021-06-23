@@ -68,15 +68,17 @@ Questions to consider:
 
 Here is an example of how to embed images from your sub-folder:
 
-### Visual 1
+### Comparing box office Profit by MPAA Rating
 ![rating_v_net_profits](./images/rating_v_wwnetprofits.png)
 
 ### Analysis
 
+### Comparing the Profits of 3 Different Genres by Month
 ![genre_v_net_profits](./images/genre_v_profits.png)
 
 ### Analysis
 
+### Comparing Release Month to Net Profits
 ![month_v_net_profits](./images/month_v_boxoffice.png)
 
 ### Analysis
