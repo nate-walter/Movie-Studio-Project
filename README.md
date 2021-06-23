@@ -46,7 +46,7 @@ We were provided data sets from IMDB, Rotten Tomatoes, Box Office Mojo, TheMovie
 
 ## Methods
 
-Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
+###Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
 
 Our overall strategy is to merge the six IMDb datasets with TN, TMDb, and finally BOM. We want to compare various independent variables against box office returns. We can use domestic gross box office from the BOM and TN datasets, as well as worldwide gross receipts from TN. Then, by using the production budget values from TN, we can determine worldwide net receipts. Worldwide net receipts will be our dependent variable.
 
