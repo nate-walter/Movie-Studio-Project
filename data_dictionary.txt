@@ -107,3 +107,28 @@ only_us_merged
     domestic_gross_x (int) - the domestic gross income
     domestic_gross_y (float) - the domestic gross income as a float that is rounded
     
+ rt_kaggle
+ 
+	rotten_tomatoes_link (string) -link from which data was scraped
+	movie_title (string) -movie title as displayed on RT website
+	movie_info (string) -brief description of the movie
+	critics_consensus (string) -comment from RT
+	content_rating (string) -MPAA rating
+	genres (string) -movie genres separated by commas
+	directors (string) -name of director(s)
+	authors (string) -name of authors
+	actors (string) -name of actors
+	original_release_date (string) -date the movie was released
+	streaming_release_date (string) -date the movie was released for streaming
+	runtime (float) -movie runtime in minutes
+	production_company (string) -movie production company
+	tomatometer_status (string) -‘Rotten’ or ‘Fresh’ critics’ status
+	tomatometer_rating (float) -0-100 movie rating
+	tomatometer_count (float) -number of critics reviews
+	audience_status (string) -‘Rotten’ or ‘Fresh’ audience status
+	audience_rating (float) -0-100 movie rating
+	audience_count (float) -number of audience reviews
+	tomatometer_top_critics_count (int) -number of reviews by top critics
+	tomatometer_fresh_crtitics_count (int) -number of critics reviews ‘fresh’
+	tomatometer_rotten_critics_count (int) -number of critics reviews ‘rotten’
+    
