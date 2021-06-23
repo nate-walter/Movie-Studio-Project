@@ -41,16 +41,14 @@ Our task is to use data to explore the types of movies that are doing well at th
 * Box office Mojo
     * bom.movie_gross.csv.gz
     
-We were provided data sets from IMDB, Rotten Tomatoes, Box Office Mojo, TheMovieDB and The Numbers. We indend to use imdb for the genre and year released while using The Numbers and TheMovieDB for gross domestic and worldwide income as well as production costs for each title. All the data represent different sample sizes of movie titles. We merged IMDB with The Numbers and TheMovieDB to get the costs and income for films that were in all the data frames.
+Our overall strategy is to merge the six IMDb datasets with TN, TMDb, and finally BOM. We want to compare various independent variables against box office returns. We can use domestic gross box office from the BOM and TN datasets, as well as worldwide gross receipts from TN. Then, by using the production budget values from TN, we can determine worldwide net receipts. Worldwide net receipts will be our dependent variable.
+
+The two smaller RT datasets contain no movie titles that can be merged with the others (and only contain what is surmised to be gross domestic receipts). Therefore these datasets can be used for expoloratory purposes and to validate other results. The RT Kaggle dataset, however, can be merged with the larger datset for further exploration.
 
 
 ## Methods
 
-###Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
-
-Our overall strategy is to merge the six IMDb datasets with TN, TMDb, and finally BOM. We want to compare various independent variables against box office returns. We can use domestic gross box office from the BOM and TN datasets, as well as worldwide gross receipts from TN. Then, by using the production budget values from TN, we can determine worldwide net receipts. Worldwide net receipts will be our dependent variable.
-
-The two smaller RT datasets contain no movie titles that can be merged with the others (and only contain what is surmised to be gross domestic receipts). Therefore these datasets can be used for expoloratory purposes and to validate other results. The RT Kaggle dataset, however, can be merged with the larger datset for further exploration.
+### Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
 
 ***
 Questions to consider:
