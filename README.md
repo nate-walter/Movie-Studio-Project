@@ -74,7 +74,7 @@ Here is an example of how to embed images from your sub-folder:
 ### Analysis
 
 ### Comparing the Profits of 3 Different Genres by Month
-![genre_v_net_profits](./images/genre_v_profits.png)
+![genre_v_net_profits](./images/genre_v_profits_.png)
 
 ### Analysis
 
