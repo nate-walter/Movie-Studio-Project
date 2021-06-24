@@ -9,7 +9,17 @@
 - [Business Problem](#Business-Problem)
    - [IMDB](#IMDB)
    - [Rotten Tomatoes](#Rotten-Tomatoes)
-   - [TheMovie]
+   - [TheMovie](#TheMovieDB)
+   - [The Numbers](#The-Numbers)
+   - [Box Office Mojo](#Box-Office-Mojo)
+- [Methods](#Methods)
+- [Results](#Results)
+    - [Rating v Box Office](#Comparing-box-office-Profit-by-MPAA-Rating)
+    - [Genre v Box Office](#Comparing-the-Profits-of-Different-Genres-by-Year)
+    - [Release Month v Box Office](#Comparing-Release-Month-to-Net-Profits)
+- [Conclusions](#Conclusions)
+- [For More Information](#For-More-Information)
+- [Repository Structure](#Repository-Structure)
 
 
 ## Overview
@@ -40,13 +50,13 @@ Our task is to use data to explore the types of movies that are doing well at th
     * rt.reviews.tsv.gz
     * rotten_tomatoes_movies.csv
 
-* TheMovieDB
+#### * TheMovieDB
     * tmdb.movies.csv.gz
     
-* The Numbers
+#### * The Numbers
     * tn.movie_budgets.csv.gz
     
-* Box office Mojo
+#### * Box office Mojo
     * bom.movie_gross.csv.gz
 
 
@@ -76,8 +86,12 @@ Looking at the graph comparing Release Month to Worldwide Net Box Office we can 
 ### Comparing Critic Sentiment to Net Profit
 ![critic sentiment v net profit](./images/box_office_by_critical_opinion.png)
 
+When looking at the rotten tomatoes data set, we wanted to see if there existed a correlation between the review of a movie and how well it does at the box office. To have a more representative sample of movie reviews we filtered out movies with less than 50 reviews to allow for a more robust data set for each movie.  This shows us that as critical ratings increase there is no significant increase in the worldwide box office profit. We would not recommend looking at how critically acclaimed a movie made by Microsoft is, and judging how well it will do at the box office. 
+
 ### Comparing Run Time to Net Profit
 ![run time v net profit](images/runtime_vs_worldwide_net_profit.png)
+
+When looking for a relationship between runtime and worldwide net profits we found a very weak correlation between the two variables. The correlation between the two variables is 0.27, and looking at the scatter plot there is a tendency of the data below 120 minutes to have a low variance. However, when the runtime exceeds 125 minutes the variance of the data fluctuates greatly and no reasonable conclusion can be drawn from this.
 
 ## Conclusions
 
