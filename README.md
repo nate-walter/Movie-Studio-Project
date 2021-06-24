@@ -87,7 +87,9 @@ Please review our full analysis in [our Jupyter Notebook](./Group_1_Technical_No
 ├── Group_1_Technical_Notebook.ipynb    <- The steps taken to acheive our endgoal
 ├── DS_Project_Presentation.pdf         <- PDF of our project presentation
 ├── data                                <- Sourced from an external source
+├── data
 └── images                              <- Images found online and pulled from our data
+
 ```
 
 Source(s)
