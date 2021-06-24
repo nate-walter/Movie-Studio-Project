@@ -31,6 +31,7 @@ Our task is to use data to explore the types of movies that are doing well at th
 * Rotten Tomatoes
     * rt.movie_info.tsv.gz
     * rt.reviews.tsv.gz
+    * rotten_tomatoes_movies.csv
 
 * TheMovieDB
     * tmdb.movies.csv.gz
