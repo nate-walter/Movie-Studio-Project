@@ -27,7 +27,7 @@ Our task is to use data to explore the types of movies that are doing well at th
 
 ## Data
 
-* IMDB
+#### * IMDB
     * imdb.name.basics.csv.gz
     * imdb.title.akas.csv.gz
     * imdb.title.basics.csv.gz
@@ -35,7 +35,7 @@ Our task is to use data to explore the types of movies that are doing well at th
     * imdb.title.principles.csv.gz
     * imdb.title.ratings.csv.gz
 
-* Rotten Tomatoes
+#### * Rotten Tomatoes
     * rt.movie_info.tsv.gz
     * rt.reviews.tsv.gz
     * rotten_tomatoes_movies.csv
