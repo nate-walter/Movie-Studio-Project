@@ -63,7 +63,7 @@ While there is a wide range of available genres for movies to be, the two most p
 ### Comparing Release Month to Net Profits
 ![month_v_net_profits](./images/month_v_boxoffice.png)
 
-Looking at the graph comparing release month to worldwide Net Box Office we can see that there is a very pronounced trend that appears in the data. The data starts weak early in the year then picks up as the year progresses peaking in July before falling sharply in the early fall and finally picking up at the end of the year. Based on this trend we would recommend that Microsoft aim to release a movie between May and July, and if unable to do so release a movie in November or December. 
+Looking at the graph comparing Release Month to Worldwide Net Box Office we can see that there is a very pronounced trend that appears in the data. The data starts weak early in the year then picks up as the year progresses peaking in July before falling sharply in the early fall and finally picking up at the end of the year. Based on this trend we would recommend that Microsoft aim to release a movie between May and July, and if unable to do so release a movie in November or December. 
 
 ## Conclusions
 
