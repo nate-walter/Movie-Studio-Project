@@ -82,8 +82,6 @@ Please review our full analysis in [our Jupyter Notebook](./Group_1_Technical_No
 
 ## Repository Structure
 
-Describe the structure of your repository and its contents, for example:
-
 ```
 ├── README.md                           <- The README to provide a overview of our project
 ├── Group_1_Technical_Notebook.ipynb    <- The steps taken to acheive our endgoal
