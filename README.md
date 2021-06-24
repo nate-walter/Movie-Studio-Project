@@ -5,6 +5,12 @@
 
 **Authors**: *Ben Bowman, Nate Walter, Nina Vergara, Manav Kahlon*
 
+- [Overview](#Overview)
+- [Business Problem](#Business Problem)
+   - [IMDB](#IMDB)
+   - [Rotten Tomatoes](#Rotten Tomatoes)
+
+
 ## Overview
 
 A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
