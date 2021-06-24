@@ -17,6 +17,8 @@
     - [Rating v Box Office](#Comparing-box-office-Profit-by-MPAA-Rating)
     - [Genre v Box Office](#Comparing-the-Profits-of-Different-Genres-by-Year)
     - [Release Month v Box Office](#Comparing-Release-Month-to-Net-Profits)
+    - [Critic Ratings v Box Office](#Comparing-Critic-Sentiment-to-Net-Profit)
+    - [Runtime vs Box Office](#Comparing-Run-Time-to-Net-Profit)
 - [Conclusions](#Conclusions)
 - [For More Information](#For-More-Information)
 - [Repository Structure](#Repository-Structure)
@@ -73,7 +75,7 @@ The two smaller RT datasets contain no movie titles that can be merged with the 
 
 When looking at the Worldwide Average Box Office Profit compared to Movie Rating some important results can be interpreted. We can see that the most profitable genre was `G` rated movies with the second most profitable genre being `PG` movies. From our visualization, it can be concluded that making a movie that has a rating that is either `G` or `PG` will lead to the greatest average box office profit. We are very confident that our results would apply to data in the real world since `G` and `PG` rated movies can be seen by the largest number of individuals, leading to more ticket sales. We would not recommend making `R` rated movies since the average net profit is significantly lower than `G` and `PG` movies leading to a greater risk of loss. 
 
-### Comparing the Profits of 3 Different Genres by Month
+### Comparing the Profits of Different Genres by Year
 ![genre_v_net_profits](./images/genre_v_profits_.png)
 
 While there is a wide range of available genres for movies to be, the two most profitable are `Adventure`, and `Animation`. We found that of all genres available the greatest and most consistent return's on investments are the ones mentioned earlier. We can see that from 2016-2018 the most profitable genres were `Adventure` and `Animation`.  While there was slight variation year over year the return was generally consistent for the two genres, making them the ones we would recommend for new movies to be. 
