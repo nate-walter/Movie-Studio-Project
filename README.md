@@ -91,7 +91,7 @@ Looking at the graph comparing Release Month to Worldwide Net Box Office we can 
 When looking at the rotten tomatoes data set, we wanted to see if there existed a correlation between the review of a movie and how well it does at the box office. To have a more representative sample of movie reviews we filtered out movies with less than 50 reviews to allow for a more robust data set for each movie.  This shows us that as critical ratings increase there is no significant increase in the worldwide box office profit. We would not recommend looking at how critically acclaimed a movie made by Microsoft is, and judging how well it will do at the box office. 
 
 ### Comparing Run Time to Net Profit
-![run time v net profit](images/runtime_vs_worldwide_net_profit.png)
+![run time v net profit](images/runtime_vs_profit.png)
 
 When looking for a relationship between runtime and worldwide net profits we found a very weak correlation between the two variables. The correlation between the two variables is 0.27, and looking at the scatter plot there is a tendency of the data below 120 minutes to have a low variance. However, when the runtime exceeds 125 minutes the variance of the data fluctuates greatly and no reasonable conclusion can be drawn from this.
 
