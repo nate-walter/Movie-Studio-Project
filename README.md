@@ -60,12 +60,12 @@ When looking at the Worldwide Average Box Office Profit compared to Movie Rating
 ### Comparing the Profits of 3 Different Genres by Month
 ![genre_v_net_profits](./images/genre_v_profits_.png)
 
-While there is a wide range of avaibale genres for movies to be, the three most profitable are `Adventure`, `Animation`, and `Fantasy`. We found that of all genres aviable the greatest and most consistent return's on investments are the ones mentined earlier. The data shows us that for a given month the net profit of the three generes will tend to be consistent, with silight variation based on certain months. 
+While there is a wide range of available genres for movies to be, the two most profitable are `Adventure`, and `Animation`. We found that of all genres available the greatest and most consistent return's on investments are the ones mentioned earlier. We can see that from 2016-2018 the most profitable genres were `Adventure` and `Animation`.  While there was slight variation year over year the return was generally consistent for the two genres, making them the ones we would recommend for new movies to be. 
 
 ### Comparing Release Month to Net Profits
 ![month_v_net_profits](./images/month_v_boxoffice.png)
 
-Looking at the graph comparing release month to worldwide Net Box Office we can see that there is a very pronoucned trend that appears in the data. The data starts off weak in early in the year then picking up as the year progresses peaking in July before falling sharply in the early fall, and finally picking up at the end of the year. 
+Looking at the graph comparing release month to worldwide Net Box Office we can see that there is a very pronounced trend that appears in the data. The data starts weak early in the year then picks up as the year progresses peaking in July before falling sharply in the early fall and finally picking up at the end of the year. Based on this trend we would recommend that Microsoft aim to release a movie between May and July, and if unable to do so release a movie in November or December. 
 
 ## Conclusions
 
