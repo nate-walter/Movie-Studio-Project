@@ -6,9 +6,10 @@
 **Authors**: *Ben Bowman, Nate Walter, Nina Vergara, Manav Kahlon*
 
 - [Overview](#Overview)
-- [Business Problem](#Business Problem)
+- [Business Problem](#Business-Problem)
    - [IMDB](#IMDB)
-   - [Rotten Tomatoes](#Rotten Tomatoes)
+   - [Rotten Tomatoes](#Rotten-Tomatoes)
+   - [TheMovie]
 
 
 ## Overview
