@@ -112,12 +112,13 @@ Please review our full analysis in [our Jupyter Notebook](./Group_1_Technical_No
 ## Repository Structure
 
 ```
-├── README.md                           <- The README to provide a overview of our project
+├── data                                <- Sourced from an external source
+├── images                              <- Images found online and pulled from our data
+├── gitignore                           <- python files to ignore 
 ├── Group_1_Technical_Notebook.ipynb    <- The steps taken to acheive our endgoal
 ├── Microsoft_powerpoint.pdf            <- PDF of our project presentation
-├── data                                <- Sourced from an external source
-├── data_dictionary.txt                 <- Description of variable names
-└── images                              <- Images found online and pulled from our data
+├── README.md                           <- The README
+└── data_dictionary.txt                 <- Description of variable names
 
 ```
 
