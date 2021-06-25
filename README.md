@@ -106,7 +106,7 @@ Based on our analysis, we recommend that Microsoft Studio should make and releas
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./Group_1_Technical_Notebook.ipynb) or our [<>](./DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./Group_1_Technical_Notebook.ipynb) or our [Microsoft_Powerpoint](./Microsoft_powerpoint.pdf).
 
 
 ## Repository Structure
